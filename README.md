@@ -1,9 +1,3 @@
-
-<!--
-**fFanjex/fFanjex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # 💫 About Me:
 I'm Denis Ushakov, a student at Voronezh State University
 
@@ -20,6 +14,3 @@ I'm Denis Ushakov, a student at Voronezh State University
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=fFanjex&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
